@@ -1,5 +1,5 @@
 <!--
-  ~ Copyright (C) ${YEAR} Antonio Leiva
+  ~ Copyright (C) 2015 Antonio Leiva
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -23,4 +23,5 @@
 
     <dimen name="elevation_low">9dp</dimen>
     <dimen name="elevation_high">12dp</dimen>
+    <dimen name="status_bar_height">25dp</dimen>
 </resources>
